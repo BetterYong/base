@@ -1,0 +1,4 @@
+/home/pingcoool/read_conf/build/CMakeFiles/edit_cache.dir
+/home/pingcoool/read_conf/build/CMakeFiles/base_lib.dir
+/home/pingcoool/read_conf/build/CMakeFiles/rebuild_cache.dir
+/home/pingcoool/read_conf/build/CMakeFiles/test_app.dir

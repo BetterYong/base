@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pingcoool/read_conf/cmdline.h
+iostream
+-
+sstream
+-
+vector
+-
+map
+-
+string
+-
+stdexcept
+-
+typeinfo
+-
+cstring
+-
+algorithm
+-
+cxxabi.h
+-
+cstdlib
+-
+
+/home/pingcoool/read_conf/ini.h
+
+/home/pingcoool/read_conf/test.cc
+string
+-
+unistd.h
+-
+memory.h
+-
+ini.h
+/home/pingcoool/read_conf/ini.h
+cmdline.h
+/home/pingcoool/read_conf/cmdline.h
+
