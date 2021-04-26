@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pingcoool/Zouyong/base/read_write_pid/pid.h
+errno.h
+-
+string.h
+-
+unistd.h
+-
+stdio.h
+-
+
+/home/pingcoool/Zouyong/base/read_write_pid/test.cc
+fstream
+-
+string
+-
+iostream
+-
+errno.h
+-
+pid.h
+/home/pingcoool/Zouyong/base/read_write_pid/pid.h
+
